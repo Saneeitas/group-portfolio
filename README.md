@@ -41,5 +41,6 @@ Muhammad Sulaiman Dantani NAS/STE/19/1036
 HAMZA ISAH NAS/STE/19/1041
 Imran Dahiru Tahir NAS/STE/19/1038
 Abdulrahim Ahmad Master NAS/STE/19/1073
+Umar Abdulwahab Shagumba NAS/STE/19/1046
 
 
